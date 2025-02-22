@@ -16,3 +16,7 @@ struct x {
   int c;
 };
 ```
+
+- [X] add task list
+- [X] commit file
+- [ ] refresh page
